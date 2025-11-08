@@ -68,7 +68,6 @@ click-per-minute-game/
 
 ![Game Preview](./preview.png)
 
-*(Replace with your screenshot if you add one to the repo)*
 
 ---
 
