@@ -97,7 +97,7 @@ Desafia os teus reflexos, tenta bater o teu recorde e descobre quantos cliques p
 ## 🚀 Demonstração
 
 Podes jogar a versão online aqui:  
-👉 [**Jogar Demo**](#) *(substitui pelo link real da demo)*
+👉 [**Jogar Demo**]([#](http://cantinhodochico.ddns.net:6969/projetos/clickperminute/)) 
 
 ---
 
